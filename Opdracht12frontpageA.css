@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: #5F9EA0;
+  background-color: #66CDAA;
+}
+
+.kadererond {
+  width: 50%;
+  height: 30%;
+  padding: 1em;
+  margin-left: 25%;
+  margin-top: 0.5%;
+  background-color: white;
+  box-shadow: 3px 3px 3px #008080;
+}
+
+.oplijst{
+  font-size: 1.1em;
+  display: block;
+  padding: 1em;
+  float: left;
+  width:6.8%;
+  height: 30%;
+  margin-left: 25%;
+  margin-top: 0.5%;
+  background-color: white;
+  box-shadow: 3px 3px 3px #008080;
+  }
+
+  h1, h2, h4 {
+    color: #FF7F50;
+  }
+
+  a {
+    color: #FF7F50;
+  }
+
+.kadergroot {
+  width: 40%;
+  height: auto;
+  padding: 1em;
+  margin-left: 35%;
+  margin-top: 0.5%;
+  background-color: white;
+  box-shadow: 3px 3px 3px #008080;
+}
